@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['sgp_5fbuffer_5fsize_480',['SGP_BUFFER_SIZE',['../db/db7/sgp30_8c.html#a0929e254edc1c8f9a44e87b54a416c0c',1,'sgp30.c']]],
+  ['sgp_5fbuffer_5fwords_481',['SGP_BUFFER_WORDS',['../db/db7/sgp30_8c.html#aabb1b851c327c6712270c4a21a6adb54',1,'sgp30.c']]],
+  ['sgp_5fcmd_5fget_5ffeatureset_5fduration_5fus_482',['SGP_CMD_GET_FEATURESET_DURATION_US',['../db/db7/sgp30_8c.html#af5386b2cb473c647af2f82ca07def79d',1,'sgp30.c']]],
+  ['sgp_5fcmd_5fget_5ffeatureset_5fwords_483',['SGP_CMD_GET_FEATURESET_WORDS',['../db/db7/sgp30_8c.html#abd04b0783c6a20cf2701aa337581ac3d',1,'sgp30.c']]],
+  ['sgp_5fcmd_5fget_5fserial_5fid_5fduration_5fus_484',['SGP_CMD_GET_SERIAL_ID_DURATION_US',['../db/db7/sgp30_8c.html#adf41486ca6760c187619f0b7f56e937e',1,'sgp30.c']]],
+  ['sgp_5fcmd_5fget_5fserial_5fid_5fwords_485',['SGP_CMD_GET_SERIAL_ID_WORDS',['../db/db7/sgp30_8c.html#aba56b85643c882eedf28dfb3df12556f',1,'sgp30.c']]],
+  ['sgp_5fcmd_5fmeasure_5ftest_5fduration_5fus_486',['SGP_CMD_MEASURE_TEST_DURATION_US',['../db/db7/sgp30_8c.html#aa23bea70ea22863d7681748d5416725a',1,'sgp30.c']]],
+  ['sgp_5fcmd_5fmeasure_5ftest_5fok_487',['SGP_CMD_MEASURE_TEST_OK',['../db/db7/sgp30_8c.html#a671afb73d4e4a2a44ba5a6aa0b4e24c2',1,'sgp30.c']]],
+  ['sgp_5fcmd_5fmeasure_5ftest_5fwords_488',['SGP_CMD_MEASURE_TEST_WORDS',['../db/db7/sgp30_8c.html#aff25e63535048dea13aa2c1b1945d3af',1,'sgp30.c']]],
+  ['sgp_5fcommand_5flen_489',['SGP_COMMAND_LEN',['../d9/d8a/sgp__featureset_8h.html#a7131e443e04ab43ffffaa027e2c82fbc',1,'sgp_featureset.h']]],
+  ['sgp_5fdrv_5fversion_5fstr_490',['SGP_DRV_VERSION_STR',['../db/db7/sgp30_8c.html#ae3cfb407c6faea1a6d413b97b9e31467',1,'sgp30.c']]],
+  ['sgp_5ffs_5fcompat_491',['SGP_FS_COMPAT',['../db/db7/sgp30_8c.html#a90c848f408420eedd04ad90253c7db7a',1,'sgp30.c']]],
+  ['sgp_5fmax_5fprofile_5fret_5flen_492',['SGP_MAX_PROFILE_RET_LEN',['../db/db7/sgp30_8c.html#a721586ffa91b4527c085692b2926072f',1,'sgp30.c']]],
+  ['sgp_5fram_5fwords_493',['SGP_RAM_WORDS',['../db/db7/sgp30_8c.html#ad050de7961a213666d64ee9df87f8d9a',1,'sgp30.c']]],
+  ['sgp_5fvalid_5fiaq_5fbaseline_494',['SGP_VALID_IAQ_BASELINE',['../db/db7/sgp30_8c.html#a99c91ee6ad25927e273210deb4b820d1',1,'sgp30.c']]],
+  ['sgp_5fword_5flen_495',['SGP_WORD_LEN',['../d9/d8a/sgp__featureset_8h.html#a3a29cc86209eb7eac247623f8c113b15',1,'sgp_featureset.h']]],
+  ['status_5ffail_496',['STATUS_FAIL',['../db/dce/sensirion__common_8h.html#a9024ed05f7df784637ef7b44ca8caf97',1,'sensirion_common.h']]],
+  ['status_5fok_497',['STATUS_OK',['../db/dce/sensirion__common_8h.html#a2403320c41f08e7567cb169de5db66b3',1,'sensirion_common.h']]]
+];
