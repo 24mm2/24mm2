@@ -1,5 +1,5 @@
 git:
 	git add .
 	git commit -m "Update"
-	git push origin HEAD:main 
+	git push -f origin HEAD:main 
 
